@@ -24,8 +24,11 @@
 
 - **Design**:
   - Responsive layout for both desktop and mobile.
-  - Modern, clean design for forms and lists.
+  - Modern, clean design using Bootstrap for forms and lists.
   - Basic error handling and validation feedback.
+
+- **State Management**:
+  - Manage application state with Redux.
 
 - **Routing & Storage**:
   - Client-side routing with React Router for separate login/register and todo list pages.
