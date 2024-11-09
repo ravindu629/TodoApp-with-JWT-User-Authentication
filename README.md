@@ -1,4 +1,4 @@
-# Irusri Group Frontend Grading Assessment React | Node | MongoDB
+# Todo App using React | Node | MongoDB
 
 > Todo Application
 
